@@ -11,8 +11,10 @@
     "inter_main_new" : "ca-app-pub-3940256099942544/1033173712",
     "onlyAdmod": true,
     "onlyFB": false,
-    "fb_banner": "",
-    "fb_inter": ""
+    "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_inter": "",
+    "bannerFb_Setting":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interFb_Setting":""
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
