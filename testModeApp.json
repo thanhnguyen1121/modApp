@@ -14,7 +14,8 @@
     "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fb_inter": "",
     "bannerFb_Setting":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interFb_Setting":""
+    "interFb_Setting":"",
+    "isShowAds":true
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
