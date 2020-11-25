@@ -12,9 +12,9 @@
     "onlyAdmod": true,
     "onlyFB": false,
     "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "fb_inter": "",
+    "fb_inter": "YOUR_PLACEMENT_ID",
     "bannerFb_Setting":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interFb_Setting":"",
+    "interFb_Setting":"YOUR_PLACEMENT_ID",
     "fluryId":"hehe",
     "isShowAds":true
   }, 
