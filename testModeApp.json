@@ -11,9 +11,9 @@
     "inter_main_new" : "ca-app-pub-3940256099942544/1033173712",
     "onlyAdmod": true,
     "onlyFB": false,
-    "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_banner": "YOUR_PLACEMENT_ID",
     "fb_inter": "YOUR_PLACEMENT_ID",
-    "bannerFb_Setting":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "bannerFb_Setting":"YOUR_PLACEMENT_ID",
     "interFb_Setting":"YOUR_PLACEMENT_ID",
     "fluryId":"hehe",
     "isShowAds":true
