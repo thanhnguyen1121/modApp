@@ -16,7 +16,7 @@
     "bannerFb_Setting":"YOUR_PLACEMENT_ID",
     "interFb_Setting":"YOUR_PLACEMENT_ID",
     "fluryId":"hehe",
-    "isShowAds":true
+    "isShowAds":false
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
