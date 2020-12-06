@@ -5,6 +5,8 @@
     "inter_setting": "ca-app-pub-3940256099942544/1033173712",
     "banner_main": "ca-app-pub-3940256099942544/2247696110",
     "inter_main": "ca-app-pub-3940256099942544/1033173712",
+    "banner_native_ads_main_admod": "ca-app-pub-3940256099942544/2247696110",
+    "native_ads_main_admod": "ca-app-pub-3940256099942544/2247696110",
     "banner_setting_new" : "ca-app-pub-3940256099942544/6300978111",
     "inter_setting_new" : "ca-app-pub-3940256099942544/1033173712",
     "banner_main_new" : "ca-app-pub-3940256099942544/2247696110",
@@ -15,6 +17,8 @@
     "fb_inter": "YOUR_PLACEMENT_ID",
     "bannerFb_Setting":"YOUR_PLACEMENT_ID",
     "interFb_Setting":"YOUR_PLACEMENT_ID",
+    "banner_native_ads_main_fb":"YOUR_PLACEMENT_ID",
+    "native_ads_main_fb":"YOUR_PLACEMENT_ID",
     "fluryId":"hehe",
     "isShowAds":true
   }, 
