@@ -8,7 +8,7 @@
     "fb_banner": "",
     "fb_inter": "",
     "isShowAll":true,
-    "onlyAdmod": true,
-    "onlyFB": false,
+    "onlyAdmod": false,
+    "onlyFB": true,
     "isShowAds":true
   }
