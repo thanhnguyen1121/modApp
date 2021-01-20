@@ -7,6 +7,7 @@
     "inter_main": "ca-app-pub-/8999920608",
     "fb_banner": "",
     "fb_inter": "",
+    "isShowAll":true,
     "onlyAdmod": true,
     "onlyFB": false,
     "isShowAds":true
